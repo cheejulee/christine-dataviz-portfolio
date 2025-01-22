@@ -1,14 +1,9 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
+# Christine Lee's Portfolio
+This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go. 
 
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
-
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+- Web page URL: https://cheejulee.github.io/christine-dataviz-portfolio/
 
 # About me
 Hi, my name is Christine Lee and I am currently pursuing a Master of Entertainment Industry Management degree at Carnegie Mellon University's Heinz College. I was born in Columbus, OH but I've lived in Seoul, South Korea for more than half of my life. My Korean name is Heeju Lee, which means "pillar of hope". I hope this portfolio can give you a glimpse into my data visualization skills.
