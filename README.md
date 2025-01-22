@@ -11,25 +11,18 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi, my name is Christine Lee and I am currently pursuing a Master of Entertainment Industry Management degree at Carnegie Mellon University's Heinz College. I was born in Columbus, OH but I've lived in Seoul, South Korea for more than half of my life. My Korean name is Heeju Lee, which means "pillar of hope". I hope this portfolio can give you a glimpse into my data visualization skills.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+All the things - obviously. But mostly
+1. How to think about data so I can create effective data visualizations
+2. How to critique data visualizations so they become effective
+3. Tools for creating data visualizations
 
 # Portfolio
 
 # Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
+<img src="urban-mobility-readiness-index-2020.png" width="620"/>
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
