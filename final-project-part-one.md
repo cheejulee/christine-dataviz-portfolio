@@ -23,15 +23,15 @@ Despite this growing interest and demand for inclusive content, many TV shows st
 The resolution to this conflict lies in the increased production and green-lighting of shows with diverse representation. By embracing diversity in casting and storytelling, networks and streaming platforms can create more successful TV series that resonate with a wider range of viewers. This approach not only addresses the current representation gap but also has the potential to drive higher viewership, increased audience engagement, and ultimately, greater profitability. As more diverse shows prove their success, it will create a positive feedback loop, encouraging further investment in inclusive content and fostering a more representative television landscape that better reflects and serves its audience.
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
-
-Text here...
+<img src="Untitled (Draft)-1.jpg" width="2157"/>
+<img src="Untitled (Draft)-2.jpg" width="2157"/>
 
 # The data
 
 Some key visualizations I could use: 
 - A bar chart showing the relationship between the percentage of diverse cast members and overall show ratings.
-- Stacked bar charts comparing viewership demographics for shows with diverse casts versus those without.
+- A bar chart showing the reality of current diversity representation in TV
+- Stacked bar charts comparing viewership demographics and sentiment for shows with diverse casts versus those without.
 - A heatmap displaying which ethnicities prefer which genres to estimate what kind of shows could benefit most from diverse casts in terms of viewership and ratings.
 - An infographic demonstrating the financial success of diverse shows compared to less diverse counterparts.
 
@@ -39,7 +39,7 @@ By presenting this data, the project aims to provide a strong case for increased
 
 | Name | URL | Description |
 |------|-----|-------------|
-|Consumer Insights Brand KPIs Media & Entertainment| [link](https://www.statista.com/global-consumer-survey/tool/53/pro_usa_202300_ent?index=0&absolute=0&population=1&missing=0&rows%5B0%5D=v9801_tvse_tvseriesshows_attitudes&rows%5B1%5D=v9804c_tvse_tvseriesshows_brandusage&tgeditor=0&pendo=0)|             |
+|Consumer Insights Brand KPIs Media & Entertainment| [link](https://www.statista.com/global-consumer-survey/tool/53/pro_usa_202300_ent?index=0&absolute=0&population=1&missing=0&rows%5B0%5D=v9801_tvse_tvseriesshows_attitudes&rows%5B1%5D=v9804c_tvse_tvseriesshows_brandusage&tgeditor=0&pendo=0)|Consumer survey of over 1000 respondents recording sentiment on media brands including TV shows|
 |Resident population of the United States by race from 2000 to 2023|[link](https://www-statista-com.cmu.idm.oclc.org/statistics/183489/population-of-the-us-by-ethnicity-since-2000/)|             |
 |Video-on-demand: Netflix users in the United States|[link](https://www.statista.com/study/73427/video-on-demand-netflix-users-in-the-united-states/)|Consumer survey categorizing Netflix users|
 |Average daily time spent watching TV per capita in the United States from 2009 to 2023, by ethnicity|[link](https://www.statista.com/statistics/411806/average-daily-time-watching-tv-us-ethnicity/)|             |
