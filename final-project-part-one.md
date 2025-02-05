@@ -3,7 +3,7 @@
 # Outline
 > Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
  
-## Diverse ethnic and racial representation on the screen leads to successful TV series
+**Diverse ethnic and racial representation on the screen leads to successful TV series**
 "As a reader I want to know that such series are doing well so that I can advocate for more diversity in representation on screen. I can do this by green lighting such productions."
 ##
 With this statement, the project aims to illustrate the correlation between diverse ethnic and racial representation on screen and the success of TV series. The project will focus on demonstrating how shows with diverse casts and authentic storytelling perform in terms of viewership, ratings, and audience engagement across various demographics.
@@ -12,13 +12,13 @@ The objectives of the project are to showcase the positive impact of diversity o
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
-## Set up: Diverse representation in TV series is gaining prominence and popularity among viewers
+**Set up: Diverse representation in TV series is gaining prominence and popularity among viewers**
 The television industry has witnessed a significant shift in recent years, with viewers increasingly drawn to content that reflects the diversity of their own experiences and communities. Shows featuring casts and storylines that represent a wide range of ethnic and racial backgrounds have gained traction, challenging long-standing industry norms. This change has been driven by evolving societal attitudes, changing demographics, and a growing recognition of the importance of authentic storytelling. As a result, diverse representation in TV series has become a key factor in attracting and retaining audiences across various demographics.
 
-## Conflict: Despite growing interest, many TV shows still lack adequate ethnic and racial diversity in their casts and storylines
+**Conflict: Despite growing interest, many TV shows still lack adequate ethnic and racial diversity in their casts and storylines**
 Despite this growing interest and demand for inclusive content, many TV shows still fall short when it comes to adequate ethnic and racial diversity in their casts and storylines. This lack of representation is particularly evident in mainstream network television and certain genres. This disconnect between audience preferences and demographics to on-screen representation not only fails to reflect the realities of modern society but also misses opportunities to engage with broader audiences and tap into new markets.
 
-## Resolution: Increased production and green-lighting of shows with diverse representation will lead to more successful TV series and better audience engagement
+**Resolution: Increased production and green-lighting of shows with diverse representation will lead to more successful TV series and better audience engagement**
 The resolution to this conflict lies in the increased production and green-lighting of shows with diverse representation. By embracing diversity in casting and storytelling, networks and streaming platforms can create more successful TV series that resonate with a wider range of viewers. This approach not only addresses the current representation gap but also has the potential to drive higher viewership, increased audience engagement, and ultimately, greater profitability. As more diverse shows prove their success, it will create a positive feedback loop, encouraging further investment in inclusive content and fostering a more representative television landscape that better reflects and serves its audience.
 
 ## Initial sketches
