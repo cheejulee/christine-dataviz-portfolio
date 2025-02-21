@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://cheejulee.github.io/christine-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
 > Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
@@ -45,7 +45,7 @@ This disconnect between audience preferences and demographics to on-screen repre
 
 **Resolution**
 
-Increased production and green-lighting of shows with diverse representation will lead to more successful TV series and better audience engagement.
+**Increased production and green-lighting of shows with diverse representation will lead to more successful TV series and better audience engagement.**
 
 <div class='tableauPlaceholder' id='viz1740040786420' style='position: relative'><noscript><a href='#'><img alt='TV genre favorability in US by ethnicity ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Tv&#47;Tvgenrefavorability&#47;
 Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Tvgenrefavorability&#47;Sheet2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Tv&#47;Tvgenrefavorability&#47;
@@ -65,58 +65,53 @@ To ensure success, data about which genres are preferred across ethnicities can 
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+My main target audience are television industry professionals, including producers, writers, and network executives. Some other target audiences are media critics and analysts as well as adult viewers interested in diversity and representation in television. With this story, I am hoping to reach decision-makers in the television industry who can influence casting and content choices, advocacy groups focused on media representation, general audience members who care about diversity in the shows they watch, even aspiring actors and creators from underrepresented groups who hope to benefit from increased diversity, and of course researchers and academics studying media representation. By targeting these groups, the project can effectively raise awareness about the importance of diversity in television and potentially inspire changes in the industry to improve representation. 
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
 
-Text here!
+My goals with the set-up are to clearly and concisesly show how audiences are favoring highly diverse shows and that they are successful in terms of ratings. Then in the conflict, I will highlight the disconnect between audience preferences for diverse representation in television and the actual diversity in TV shows. Lastly with the resolution I plan to demonstrate the potential benefits of increased diversity in TV series production which will encourage the television industry to produce more shows with diverse representation.
 
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
-
-
-Text here!
+Questions to ask:
+1. Which data visualization was most compelling in telling the story of diversity representation in TV?
+2. Is there anything you find surprising or confusing?
+3. Are there any points where the flow could be improved to enhance understanding?
+4. Who do you think is the intended audience?
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
+Interviewee 1: White male, Tepper student
+Interviewee 2: White female, MEIM student
+Interviewee 3: Asian female, MEIM student
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| Questions| Interview 1 | Interview 2 | Interview 3 |
+|----------|-------------|-------------|-------------|
+| 1 |bar chart showing the high percentage of positive perception of diversity|high percentage (60-80%) of viewers who enjoy learning about multiple cultures|genre preferences across ethnicities, actionable|
+| 2 |the disconnect between audience preferences and actual representation, expected the industry to be more responsive to viewer demands|gap between industry and audience preference|low percentage (20-50%) of viewers who care about being represented on screen, expected higher rate|
+| 3 |concrete examples of successful diverse shows|title of graphs could be more specific, specific data on the financial success of diverse shows|impact on international markets|
+| 4 |TV industry executives|executives, future entertainment industry professionals|executives, MEIM students|
 
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
-
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+|Gap or disconnect between audience preference and industry mentioned twice|emphasizing in the beginning for shock factor and hook|
+|Titles of graphs lacking important details|Add year and country, other elements to help understanding|
+|Interest in specific shows for examples noted|Do more research on shows that were diverse and successful, add more visual aspects and information incorporating these shows|
 
-> ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
 
 ## References
-_List any references you used here._
+
+Deloitte. (March 19, 2024). Perception of diversity and cultural differences in TV shows and movies in the United States as of October 2023, by ethnicity [Graph]. In Statista. Retrieved February 11, 2025, from https://www.statista.com/statistics/1474646/diversity-cultural-differences-tv-shows-movies-by-ethnicity-us/
+
+Ipsos. (November 29, 2023). Perception of diversity in entertainment, TV, and movies adults watch in the United States as of August 2023, by ethnicity [Graph]. In Statista. Retrieved February 11, 2025, from https://www.statista.com/statistics/815789/public-opinion-diversity-film-tv-by-ethnicity/
+
+Kaloi, Stephanie. “UCLA Study Finds 80% of Top Streaming Series Led by White Actors.” TheWrap (blog), December 17, 2024. https://www.thewrap.com/ucla-hollywood-diversity-report-2024-streaming-series-white-leads/.
+
+Morning Consult. (November 27, 2018). Favorability of selected television show genres among adults in the United States as of November 2018, by ethnicity [Graph]. In Statista. Retrieved February 05, 2025, from https://www-statista-com.cmu.idm.oclc.org/statistics/948548/preferred-tv-show-types-in-the-us-by-ethnicity/
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
