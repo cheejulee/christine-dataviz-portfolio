@@ -81,9 +81,9 @@ Questions to ask:
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Interviewee 1: White male, Tepper student
-Interviewee 2: White female, MEIM student
-Interviewee 3: Asian female, MEIM student
+- Interviewee 1: White male, Tepper student
+- Interviewee 2: White female, MEIM student
+- Interviewee 3: Asian female, MEIM student
 
 | Questions| Interview 1 | Interview 2 | Interview 3 |
 |----------|-------------|-------------|-------------|
